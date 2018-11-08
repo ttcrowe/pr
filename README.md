@@ -3,7 +3,7 @@
 @DeirdreLoughnan  
 @julianheavyside  
 @EvgeniyaYangel  
-@dejonggr (Grant de Jong)  
++@dejonggr  
 @auduman  
 @macurqcron  
 @j-schaub  
