@@ -1,7 +1,5 @@
 # pr
 
-#The following people are probably humans
-
 @DeirdreLoughnan  
 @julianheavyside  
 @EvgeniyaYangel  
@@ -17,5 +15,5 @@
 @szojka  
 @kaitlinyehle  
 @ttcrowe  
-@libby-natola  
++@libby-natola  
 @ernesttywu  
