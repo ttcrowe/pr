@@ -2,9 +2,9 @@
 
 @DeirdreLoughnan  
 @julianheavyside  
-@EvgeniyaYangel  
-@dejonggr  
+@EvgeniyaYangel    
 @auduman (Aisha)  
++@dejonggr   
 @macurqcron  
 @j-schaub  
 @tsmith93  
@@ -15,5 +15,5 @@
 @szojka  
 @kaitlinyehle  
 @ttcrowe  
-@libby-natola  
++@libby-natola  
 @ernesttywu  
